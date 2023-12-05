@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅ I’m currently working on FilUp RH as Flutter Developer and my own personal project Aqua Clyva Tizimín. 💪🏻 <br>✅ I’m looking to collaborate with others Flutter developers and learn from them. 🫱🏻‍🫲🏻<br>✅ I’m looking for help all developers who needs something from me. 🙋🏼‍♂️<br>✅ I’m currently working in improving my Flutter skills. 💻<br>✅ Ask me about Flutter BLOC and UI. 📲
+✅ I’m currently working on FilUp RH as Flutter Developer and my own personal project Aqua Clyva Tizimín. 💪🏻 <br>✅ I’m looking to collaborate with others Flutter developers and learn from them. 🫱🏻‍🫲🏻<br>✅ I’m currently working in improving my Flutter skills. 💻<br>✅ Ask me about Flutter BLOC and UI. 📲
 
 
 ## 🌐 Socials:
