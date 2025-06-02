@@ -26,8 +26,9 @@
 ---
 
 # 🌱 Currently Learning
-- Improving my skills in **Flutter** & **Swift** for mobile app development
-- Exploring **AI** and **Machine Learning** just for fun  
+- Improving my skills in **Flutter** for mobile app development
+- Learning **Swift** for native mobile development  
+- Exploring **AI** tools just for fun  
 - Keeping up with new trends in **Mobile** and **AI**
 
 ---
