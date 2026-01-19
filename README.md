@@ -1,20 +1,7 @@
-# 👦🏽 About Me
-- 💼 **Currently**: Mobile Developer at Filup RH & working on personal projects  
-- 🤝 **Collaborating**: Always open to teaming up with other developers  
-- 📈 **Learning**: Constantly improving my development skills  
-- 🐱 **Fun Fact**: Proud owner of four playful cats! 🐱🐱🐱🐱
-- ✨ **Passion**: I love to learn new things, especially in mobile!  
+# 👋🏽 Hello there, Roger here!
 
----
-
-# 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=jesuspedge&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuspedge&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### 💬 Random Developer Quote
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+I'm a Mobile Developer at Filup RH who's passionate about continuous learning and personal projects. I'm always eager to collaborate with fellow developers and constantly work on improving my development skills, with a particular love for exploring new things in mobile development.
+When I'm not coding, I enjoy playing guitar as a hobby and spending time with my four playful cats who keep things interesting at home!
 
 ---
 
